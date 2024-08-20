@@ -1,0 +1,18 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+.message1 {
+  float: right;
+  width: 45%;
+  transform: translateY(-440px);
+}
+
+.text1{
+    text-align: center;
+    color: azure;
+    font-weight: bolder;
+}
